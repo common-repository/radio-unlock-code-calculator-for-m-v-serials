@@ -1,0 +1,120 @@
+/** plugin styles **/
+.mot-spacer {
+    clear: both;
+}
+.RadioCodeKing{
+/* registration search box wrapper */ 
+    margin: 0 auto!important;
+    text-align: center!important;
+    width: 100%!important;
+}
+.RadioCodeKingLeft{
+/* registration search box wrapper */ 
+    margin: 0 auto!important;
+    text-align: left!important;
+    width: 100%!important;
+}
+.RadioCodeKingRight{
+/* registration search box wrapper */ 
+    margin: 0 auto!important;
+    text-align: right!important;
+    width: 100%!important;
+}
+.RadioCodeKingCenter{
+/* registration search box wrapper */ 
+    margin: 0 auto!important;
+    text-align: center!important;
+    width: 100%!important;
+}
+.CodeSearchBoxT{
+/* input box for registration */ 
+    margin-bottom: 0.2em!important;
+    width: 245px!important;
+    height: 50px!important;
+    font-size: 1.6em!important;
+    font-weight: bold!important;
+    border-radius: 3px!important;
+    padding: 9px!important;	padding-left: 55px!important;
+	background: url(https://radiocodeking.co.uk/img/unlock2.png) no-repeat scroll #f9c038!important;	
+    text-transform: uppercase!important;
+    text-align: center!important;
+    box-shadow: none!important;
+    box-sizing: border-box!important;
+    transition: all .2s linear!important;
+    border-width: 1px!important;
+    border-style: solid!important;
+    border-color: #eaeaea!important;
+    color: #4E4E4E!important;
+}
+.rck-btn-searchT{
+/* search button for registration search */ 
+background-color:#0274BE!important;
+border-color:#0274BE!important;
+border-radius: 2px!important;
+padding-top: 10px!important;
+padding-right: 20px!important;
+padding-bottom: 10px!important;
+padding-left: 20px!important;
+font-weight: 500!important;
+border-style: solid!important;
+border-top-width: 0!important;
+border-right-width: 0!important;
+border-left-width: 0!important;
+border-bottom-width: 0!important;
+color: #ffffff!important;
+}
+.rckcredit{
+text-align:center!important;
+font-size:10px!important;
+padding-top:8px!important;
+}
+.vehicle_sep_line {
+    border-top-width: 2px!important;
+    border-color: #ebebeb!important;
+    border-top-style: dashed!important;
+}
+.centerloadingimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.help-msg {
+    background-color: #327db1;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 1rem;
+    margin-top: 32px;
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.5);
+}
+.card-page {
+    -webkit-box-shadow: 0 1px 0 0 rgba(238,238,238,.8);
+    box-shadow: 0 1px 0 0 rgba(238,238,238,.8);
+    border: 1px solid #efefef;
+    background: #fff;
+    border-radius: 10px;
+    padding: 3rem;
+    position: relative;
+}
+.RCKresult{
+    text-align: center!important;
+    color: #fff!important;
+    background: #327db1!important;
+    font-size: 80px!important;
+	font-weight: 700!important;	
+}
+.centralall1{
+    text-align: center!important;	
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #535353;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #535353;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #535353;
+}
